@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+.env
+
+# Cache and compiled files
+__pycache__/
+*.pyc
+
+# Datasets (Keep the code, ignore the massive data files)
+Dataset/
+*.tar.gz
+*.csv
+
+# OS generated files
+.DS_Store
